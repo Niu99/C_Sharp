@@ -1,0 +1,8 @@
+D:\VS文件\CSharp波形显示控件源码\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+D:\VS文件\CSharp波形显示控件源码\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+D:\VS文件\CSharp波形显示控件源码\ZGraph\ZGraph\obj\Debug\ZGraph.csprojAssemblyReference.cache
+D:\VS文件\CSharp波形显示控件源码\ZGraph\ZGraph\obj\Debug\ZhengJuyin.UI.ZGraph.resources
+D:\VS文件\CSharp波形显示控件源码\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.cache
+D:\VS文件\CSharp波形显示控件源码\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.CoreCompileInputs.cache
+D:\VS文件\CSharp波形显示控件源码\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+D:\VS文件\CSharp波形显示控件源码\ZGraph\ZGraph\obj\Debug\ZGraph.pdb
