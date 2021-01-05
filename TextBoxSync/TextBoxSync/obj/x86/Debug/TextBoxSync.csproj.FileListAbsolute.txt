@@ -1,0 +1,40 @@
+c:\users\tim\documents\visual studio 2010\Projects\TextBoxSync\TextBoxSync\bin\Debug\TextBoxSync.exe
+c:\users\tim\documents\visual studio 2010\Projects\TextBoxSync\TextBoxSync\bin\Debug\TextBoxSync.pdb
+c:\users\tim\documents\visual studio 2010\Projects\TextBoxSync\TextBoxSync\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2010\Projects\TextBoxSync\TextBoxSync\obj\x86\Debug\TextBoxSync.Example.resources
+c:\users\tim\documents\visual studio 2010\Projects\TextBoxSync\TextBoxSync\obj\x86\Debug\TextBoxSync.Properties.Resources.resources
+c:\users\tim\documents\visual studio 2010\Projects\TextBoxSync\TextBoxSync\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\tim\documents\visual studio 2010\Projects\TextBoxSync\TextBoxSync\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\tim\documents\visual studio 2010\Projects\TextBoxSync\TextBoxSync\obj\x86\Debug\TextBoxSync.exe
+c:\users\tim\documents\visual studio 2010\Projects\TextBoxSync\TextBoxSync\obj\x86\Debug\TextBoxSync.pdb
+c:\users\tim\documents\visual studio 2010\Projects\TextBoxSync\TextBoxSync\obj\x86\Debug\TextBoxSync.About.resources
+D:\zzy\Desktop\TextBoxSync\TextBoxSync\obj\x86\Debug\TextBoxSync.exe
+D:\zzy\Desktop\TextBoxSync\TextBoxSync\obj\x86\Debug\TextBoxSync.pdb
+D:\zzy\Desktop\TextBoxSync\TextBoxSync\bin\Debug\TextBoxSync.exe
+D:\zzy\Desktop\TextBoxSync\TextBoxSync\bin\Debug\TextBoxSync.pdb
+D:\zzy\Desktop\TextBoxSync\TextBoxSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\zzy\Desktop\TextBoxSync\TextBoxSync\obj\x86\Debug\TextBoxSync.About.resources
+D:\zzy\Desktop\TextBoxSync\TextBoxSync\obj\x86\Debug\TextBoxSync.Example.resources
+D:\zzy\Desktop\TextBoxSync\TextBoxSync\obj\x86\Debug\TextBoxSync.Properties.Resources.resources
+D:\zzy\Desktop\TextBoxSync\TextBoxSync\obj\x86\Debug\ResGen.read.1.tlog
+D:\zzy\Desktop\TextBoxSync\TextBoxSync\obj\x86\Debug\ResGen.write.1.tlog
+E:\TextBoxSync_By_zzy\TextBoxSync\bin\Debug\TextBoxSync.exe
+E:\TextBoxSync_By_zzy\TextBoxSync\bin\Debug\TextBoxSync.pdb
+E:\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.About.resources
+E:\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.Example.resources
+E:\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.Properties.Resources.resources
+E:\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\ResGen.read.1.tlog
+E:\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\ResGen.write.1.tlog
+E:\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.exe
+E:\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.pdb
+D:\VS文件\TextBoxSync_By_zzy\TextBoxSync\bin\Debug\TextBoxSync.exe
+D:\VS文件\TextBoxSync_By_zzy\TextBoxSync\bin\Debug\TextBoxSync.pdb
+D:\VS文件\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.csprojAssemblyReference.cache
+D:\VS文件\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.About.resources
+D:\VS文件\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.Example.resources
+D:\VS文件\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.Properties.Resources.resources
+D:\VS文件\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.csproj.GenerateResource.cache
+D:\VS文件\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.csproj.CoreCompileInputs.cache
+D:\VS文件\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.exe
+D:\VS文件\TextBoxSync_By_zzy\TextBoxSync\obj\x86\Debug\TextBoxSync.pdb
