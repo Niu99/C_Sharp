@@ -1,0 +1,61 @@
+﻿<Window x:Class="WaterFallChart.ChartWnd2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WaterFallChart"
+       WindowState="Normal" WindowStyle="None" AllowsTransparency="True"
+        Title="MainWindow" Height="480" Width="800" Background="Transparent"
+        WindowStartupLocation="CenterScreen">
+    <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="6"
+            Background="Black">
+        <Border.Effect>
+            <DropShadowEffect Opacity="0.6" ShadowDepth="0" BlurRadius="4"/>
+        </Border.Effect>
+        <Grid x:Name="GdRoot">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="36"/>
+                <RowDefinition/>
+                <RowDefinition Height="30"/>
+            </Grid.RowDefinitions>
+            <Grid x:Name="GdHeader">
+                <Border Background="Black" CornerRadius="5,5,0,0" x:Name="BdrHeader" MouseDown="BdrHeaderBg_MouseDown"
+                        BorderBrush="White" BorderThickness="0,0,0,1" Opacity="0.5"/>
+                <TextBlock Text="瀑布图2" HorizontalAlignment="Left" VerticalAlignment="Center" Foreground="White"
+                           FontSize="20" Margin="10,0,0,0"/>
+                <ToggleButton Width="36" Style="{StaticResource Btn.Wnd.CloseStyle}" HorizontalAlignment="Right"
+                                  x:Name="BtnClose" Click="BtnClose_Click" >
+                    <Rectangle Width="12" Height="12" Fill="{StaticResource WndIcon.Close.12px}"/>
+                </ToggleButton>
+            </Grid>
+            <Grid Grid.Row="1" Background="Black" Margin="0,18,0,0">
+                <Grid x:Name="GdMain">
+                    <Grid x:Name="GdAxis"/>
+                    <Grid x:Name="GdContent" Margin="40,10,10,20">
+                        <Image HorizontalAlignment="Left" Width="8" x:Name="ImgColorAreaLeft"
+                                   RenderTransformOrigin="0.5 0.5" Stretch="Fill">
+                            <Image.RenderTransform>
+                                <RotateTransform Angle="180"/>
+                            </Image.RenderTransform>
+                        </Image>
+                        <Rectangle Width="8" HorizontalAlignment="Right">
+                            <Rectangle.Fill>
+                                <VisualBrush Visual="{Binding ElementName=ImgColorAreaLeft}"/>
+                            </Rectangle.Fill>
+                        </Rectangle>
+                        <Viewbox x:Name="VbxContainer" Stretch="Fill" Margin="8,0">
+                            <Grid Width="1000" Height="500" x:Name="GdContainer">
+                                <StackPanel x:Name="SpContainers">
+                                    
+                                </StackPanel>
+                            </Grid>
+                        </Viewbox>
+                    </Grid>
+                </Grid>
+            </Grid>
+            <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="2"
+                       Foreground="White" Text="让WPF火起来、活起来 - CrazyDuel"
+                       Margin="10,0,10,0"/>
+        </Grid>
+    </Border>
+</Window>
