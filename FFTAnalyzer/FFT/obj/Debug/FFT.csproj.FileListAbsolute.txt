@@ -1,0 +1,10 @@
+D:\Kami\Documents\FFT\bin\Debug\FFT.dll
+D:\Kami\Documents\FFT\bin\Debug\FFT.pdb
+D:\Kami\Documents\FFT\obj\Debug\FFT.dll
+D:\Kami\Documents\FFT\obj\Debug\FFT.pdb
+D:\VS2019\FFTAnalyzer-master\FFTAnalyzer-master\FFT\bin\Debug\FFT.dll
+D:\VS2019\FFTAnalyzer-master\FFTAnalyzer-master\FFT\bin\Debug\FFT.pdb
+D:\VS2019\FFTAnalyzer-master\FFTAnalyzer-master\FFT\obj\Debug\FFT.csprojAssemblyReference.cache
+D:\VS2019\FFTAnalyzer-master\FFTAnalyzer-master\FFT\obj\Debug\FFT.csproj.CoreCompileInputs.cache
+D:\VS2019\FFTAnalyzer-master\FFTAnalyzer-master\FFT\obj\Debug\FFT.dll
+D:\VS2019\FFTAnalyzer-master\FFTAnalyzer-master\FFT\obj\Debug\FFT.pdb
