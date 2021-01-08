@@ -16,7 +16,7 @@ namespace test1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TabControlDraw());
+            Application.Run(new Spectrum_waterfall());
         }
     }
 }

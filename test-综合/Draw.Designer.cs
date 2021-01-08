@@ -65,10 +65,11 @@
             this.chart1.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.SeaGreen;
             series1.BackImageTransparentColor = System.Drawing.Color.LightYellow;
             series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StackedArea;
             series1.LabelBorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
             series1.Legend = "Legend1";
             series1.Name = "Series1";
+            series1.YValuesPerPoint = 2;
             this.chart1.Series.Add(series1);
             this.chart1.Size = new System.Drawing.Size(534, 321);
             this.chart1.TabIndex = 1;
@@ -169,7 +170,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(74, 21);
             this.textBox3.TabIndex = 10;
-            this.textBox3.Text = "-10";
+            this.textBox3.Text = "-50";
             // 
             // textBox4
             // 
@@ -177,7 +178,7 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(74, 21);
             this.textBox4.TabIndex = 11;
-            this.textBox4.Text = "10";
+            this.textBox4.Text = "50";
             // 
             // label1
             // 

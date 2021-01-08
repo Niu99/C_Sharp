@@ -56,7 +56,19 @@ namespace test1
             chart1.Series[0].Points.Clear();
             for (int i = 0; i < dataQueue.Count; i++)
             {
-                chart1.Series[0].Points.AddXY((i + 1), dataQueue.ElementAt(i));
+                if (dataQueue.ElementAt(i) > -50 && dataQueue.ElementAt(i) < -20)
+                {
+                    chart1.Series[0].Color = Color.Blue;
+                }
+                if (dataQueue.ElementAt(i) > -20 && dataQueue.ElementAt(i) < 10)
+                {
+                    chart1.Series[0].Color = Color.Red;
+                }
+                else
+                {
+                    chart1.Series[0].Color = Color.Green;
+                }
+                chart1.Series[0].Points.AddXY(10, dataQueue.ElementAt(i));
             }
         }
         ///<summary>
@@ -78,7 +90,7 @@ namespace test1
             int maxmum = Convert.ToInt32(textBox2.Text);
             chart1.ChartAreas[0].AxisY.Minimum = minmum;
             chart1.ChartAreas[0].AxisY.Maximum = maxmum;
-            chart1.ChartAreas[0].AxisX.Interval = 100;
+            //chart1.ChartAreas[0].AxisX.Interval = 10;
             chart1.ChartAreas[0].AxisX.MajorGrid.LineColor = Color.Silver;
             chart1.ChartAreas[0].AxisY.MajorGrid.LineColor = Color.Silver;
             //设置标题
@@ -92,7 +104,8 @@ namespace test1
             if (radioButton1.Checked)
             {
                 chart1.Titles[0].Text = string.Format("{0}显示", radioButton1.Text);
-                chart1.Series[0].ChartType = SeriesChartType.Line;
+                chart1.Series[0].ChartType = SeriesChartType.Column;
+                chart1.Series[0].Color = Color.Blue;
             }
             if (radioButton2.Checked)
             {

@@ -55,6 +55,9 @@
     <Reference Include="UIAutomationProvider" />
     <Reference Include="WindowsBase" />
     <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="ZedGraph">
+      <HintPath>C:\Users\n1512\Desktop\zedgraph_dll_v515\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccessDemo.cs">
@@ -69,6 +72,12 @@
     </Compile>
     <Compile Include="AimProgressBar.Designer.cs">
       <DependentUpon>AimProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComlWaterfallChartControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ComlWaterfallChartControl.designer.cs">
+      <DependentUpon>ComlWaterfallChartControl.cs</DependentUpon>
     </Compile>
     <Compile Include="CustomWaterfallNumericAxis.cs" />
     <Compile Include="CustomWaterfallRubberBandXyZoomModifier.cs" />
@@ -184,6 +193,9 @@
     </Compile>
     <EmbeddedResource Include="AccessDemo.resx">
       <DependentUpon>AccessDemo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComlWaterfallChartControl.resx">
+      <DependentUpon>ComlWaterfallChartControl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Draw.resx">
       <DependentUpon>Draw.cs</DependentUpon>
