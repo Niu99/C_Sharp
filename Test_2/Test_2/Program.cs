@@ -16,7 +16,7 @@ namespace Test_2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormBitmapTest());
+            Application.Run(new FormXMLTest());
         }
     }
 }

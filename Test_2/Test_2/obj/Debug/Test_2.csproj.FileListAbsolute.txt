@@ -9,3 +9,4 @@ D:\VS2019\Test_2\Test_2\obj\Debug\Test_2.csproj.CoreCompileInputs.cache
 D:\VS2019\Test_2\Test_2\obj\Debug\Test_2.exe
 D:\VS2019\Test_2\Test_2\obj\Debug\Test_2.pdb
 D:\VS2019\Test_2\Test_2\obj\Debug\Test_2.FormBitmapTest.resources
+D:\VS2019\Test_2\Test_2\obj\Debug\Test_2.FormXMLTest.resources
