@@ -1,0 +1,10 @@
+D:\VS2019\Server\bin\Debug\Server.exe.config
+D:\VS2019\Server\bin\Debug\Server.exe
+D:\VS2019\Server\bin\Debug\Server.pdb
+D:\VS2019\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\VS2019\Server\obj\Debug\Server.Form1.resources
+D:\VS2019\Server\obj\Debug\Server.Properties.Resources.resources
+D:\VS2019\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\VS2019\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\VS2019\Server\obj\Debug\Server.exe
+D:\VS2019\Server\obj\Debug\Server.pdb
