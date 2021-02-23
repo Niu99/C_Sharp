@@ -71,5 +71,10 @@ namespace Test_2
                 }
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)//写入XML文件
+        {
+
+        }
     }
 }
