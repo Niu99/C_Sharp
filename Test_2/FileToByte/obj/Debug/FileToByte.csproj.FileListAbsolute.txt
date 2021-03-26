@@ -1,0 +1,10 @@
+D:\Git\C_Sharp\Test_2\FileToByte\bin\Debug\FileToByte.exe.config
+D:\Git\C_Sharp\Test_2\FileToByte\bin\Debug\FileToByte.exe
+D:\Git\C_Sharp\Test_2\FileToByte\bin\Debug\FileToByte.pdb
+D:\Git\C_Sharp\Test_2\FileToByte\obj\Debug\FileToByte.csprojAssemblyReference.cache
+D:\Git\C_Sharp\Test_2\FileToByte\obj\Debug\FileToByte.Form1.resources
+D:\Git\C_Sharp\Test_2\FileToByte\obj\Debug\FileToByte.Properties.Resources.resources
+D:\Git\C_Sharp\Test_2\FileToByte\obj\Debug\FileToByte.csproj.GenerateResource.cache
+D:\Git\C_Sharp\Test_2\FileToByte\obj\Debug\FileToByte.csproj.CoreCompileInputs.cache
+D:\Git\C_Sharp\Test_2\FileToByte\obj\Debug\FileToByte.exe
+D:\Git\C_Sharp\Test_2\FileToByte\obj\Debug\FileToByte.pdb
