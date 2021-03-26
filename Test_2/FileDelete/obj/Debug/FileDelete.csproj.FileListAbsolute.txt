@@ -1,0 +1,10 @@
+D:\Git\C_Sharp\Test_2\FileDelete\bin\Debug\FileDelete.exe.config
+D:\Git\C_Sharp\Test_2\FileDelete\bin\Debug\FileDelete.exe
+D:\Git\C_Sharp\Test_2\FileDelete\bin\Debug\FileDelete.pdb
+D:\Git\C_Sharp\Test_2\FileDelete\obj\Debug\FileDelete.csprojAssemblyReference.cache
+D:\Git\C_Sharp\Test_2\FileDelete\obj\Debug\FileDelete.Form1.resources
+D:\Git\C_Sharp\Test_2\FileDelete\obj\Debug\FileDelete.Properties.Resources.resources
+D:\Git\C_Sharp\Test_2\FileDelete\obj\Debug\FileDelete.csproj.GenerateResource.cache
+D:\Git\C_Sharp\Test_2\FileDelete\obj\Debug\FileDelete.csproj.CoreCompileInputs.cache
+D:\Git\C_Sharp\Test_2\FileDelete\obj\Debug\FileDelete.exe
+D:\Git\C_Sharp\Test_2\FileDelete\obj\Debug\FileDelete.pdb
