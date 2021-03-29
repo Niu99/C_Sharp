@@ -1,0 +1,10 @@
+D:\Git\C_Sharp\Test_2\SocketTrans\bin\Debug\SocketTrans.exe.config
+D:\Git\C_Sharp\Test_2\SocketTrans\bin\Debug\SocketTrans.exe
+D:\Git\C_Sharp\Test_2\SocketTrans\bin\Debug\SocketTrans.pdb
+D:\Git\C_Sharp\Test_2\SocketTrans\obj\Debug\SocketTrans.csprojAssemblyReference.cache
+D:\Git\C_Sharp\Test_2\SocketTrans\obj\Debug\SocketTrans.Form1.resources
+D:\Git\C_Sharp\Test_2\SocketTrans\obj\Debug\SocketTrans.Properties.Resources.resources
+D:\Git\C_Sharp\Test_2\SocketTrans\obj\Debug\SocketTrans.csproj.GenerateResource.cache
+D:\Git\C_Sharp\Test_2\SocketTrans\obj\Debug\SocketTrans.csproj.CoreCompileInputs.cache
+D:\Git\C_Sharp\Test_2\SocketTrans\obj\Debug\SocketTrans.exe
+D:\Git\C_Sharp\Test_2\SocketTrans\obj\Debug\SocketTrans.pdb

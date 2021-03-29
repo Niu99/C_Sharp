@@ -165,9 +165,9 @@ namespace SocketTrans
             ts.AddRange(_dma_write_length);
             //发送的数据
             //产生相应长度的递增数
-            int[] _data = new int[length - 4];
+            int[] _data = new int[length - 8];
             List<byte> Bdata = new List<byte>();
-            for (int i = 0; i < length - 4; i++)
+            for (int i = 0; i < length - 8; i++)
             {
                 _data[i] = i;
                 byte[] tmpdata = BitConverter.GetBytes(_data[i]);
@@ -309,16 +309,13 @@ namespace SocketTrans
                 fs.Close();
                 fs.Dispose();
                 //消息总长度
-                _boot_upgrade.uiLength = Convert.ToUInt32(bin.Length);
+                _boot_upgrade.uiLength = Convert.ToUInt32(bin.Length + 8);
             }
             //消息总长度
             byte[] _boot_upgrade_length = BitConverter.GetBytes(_boot_upgrade.uiLength);
             ts.AddRange(_boot_upgrade_length);
-            _boot_upgrade.ucData = new byte[bin.Length - 8];
-            for (int i = 8; i < bin.Length; i++)
-            {
-                _boot_upgrade.ucData[i - 8] = bin[i];
-            }
+            _boot_upgrade.ucData = new byte[bin.Length];
+            _boot_upgrade.ucData = bin;
             ts.AddRange(_boot_upgrade.ucData);
             byte[] _boot_upgrade_send = ts.ToArray();
             socketClient.Send(_boot_upgrade_send);
